@@ -4,11 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Installed-Size: 268
 Depends: firmware (>= 9.0), com.mocarellamen.x2monitors.theme.light
+Conflicts: com.xabaraari.x2monitors, com.xabaraari.subscreen
+Replaces: com.xabaraari.x2monitors, com.xabaraari.subscreen
 Filename: debs/com.mocarellamen.x2monitors_2.4-1_iphoneos-arm.deb
-Size: 140850
-MD5sum: 0d029bc7a7ac5d941bad108a545ad564
-SHA1: f764dec00ac177cc6f996b4ca079b24eb80f8087
-SHA256: 879330779047355e7ecb541c3d212279fb19948f9ced9ae2d32c9d2419cda11b
+Size: 140844
+MD5sum: f870ef706a61e4172d1de22af3a7345b
+SHA1: de71d6fd7976831894a8ff953b79d24f16144991
+SHA256: 9b14ecb2c8f95535dacde13557b7e948af74ea86a2ef86d79db8a598ca3806da
 Section: Utilities
 Description: Wi-Fi second monitor client with H.264 hardware decoding, custom glass themes and orientation switcher for iPad mini 1
 Author: mocarellamen
@@ -19,10 +21,10 @@ Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Filename: debs/com.mocarellamen.x2monitors.theme.gray_2.4_iphoneos-arm.deb
-Size: 31348
-MD5sum: 6fb2836bbadbf919a024e67ba5b8a044
-SHA1: 39ccb94c0f56bec6fed52bfafc58cf42089b5237
-SHA256: 5a8a8f9c3e46eab721e2ac8973923e011db3a2f3c4d07369808caff373693035
+Size: 31636
+MD5sum: 1728920a743ca34a4ae2c86c0743bf2f
+SHA1: 427d6b24dc9b3bef112886d5995d19bb7b4c162f
+SHA256: de5ee5c11c26882a8950feed8bfbc3de62b980aeb8d9a69bffce52d8179035f3
 Section: Theme
 Description: Dark gray glass UI and app icon theme for x2Monitors!
 Author: mocarellamen
@@ -33,10 +35,10 @@ Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Filename: debs/com.mocarellamen.x2monitors.theme.light_2.4_iphoneos-arm.deb
-Size: 34138
-MD5sum: 24e4b3d5a535abf5f8b589197b580794
-SHA1: 11ee00c6c10558bf74fdb59661ae0b5ec81db974
-SHA256: 69a432ec1ff303f80ad7f870e350d172d00abae8cdef3088f98f2100c2a84ad3
+Size: 34362
+MD5sum: 99f6e46fb64ee8d2549845168db56a1d
+SHA1: 98f1179f8d5aa7d17ad0a3dc4ae0a4830522a2f5
+SHA256: 526e706d8dcba6c1f4e20c4e62556cac8329887305eec3ea62e859d309285f41
 Section: Theme
 Description: Light glass UI and app icon theme for x2Monitors!
 Author: mocarellamen
