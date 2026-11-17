@@ -34,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: xabar-aari <pablo.cnyik@gmail.com>
 Installed-Size: 248
 Filename: debs/com.xabaraari.x2monitors_2.3-1+debug_iphoneos-arm.deb
-Size: 138502
-MD5sum: ced808018581e200a38a8f6d6ff9fbd6
-SHA1: e6bdd4939ded5b4ab7f388e7d2ef0f27ba3317b4
-SHA256: 1d3980727de6dfda81d6c71918ef76f73990dde064161dbeefad91d3667a90b0
+Size: 138498
+MD5sum: 18453f5495fa96fb908e245aad4f5511
+SHA1: 114e8fa125346000c5231a688d43559cafa517cc
+SHA256: 36dd11cab9b85b7d2a2eb6c10d2361e34a6d4936a243e0b1ae89ce635cc030af
 Section: Utilities
 Description: Wi-Fi second monitor client with H.264 hardware decoding, Telegram-style themes and orientation switcher for iPad mini 1
 Author: xabar-aari
