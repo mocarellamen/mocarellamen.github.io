@@ -1,43 +1,13 @@
-Package: com.xabaraari.subscreen
-Version: 2.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: xabar-aari <pablo.cnyik@gmail.com>
-Installed-Size: 160
-Filename: debs/com.xabaraari.subscreen_2.2-1+debug_iphoneos-arm.deb
-Size: 39564
-MD5sum: caa6247a3f487716591f039b4d272ace
-SHA1: 459aee09010d8568aa9b4f40f58c8d49e3b48500
-SHA256: 0cb565f431cf781d043e158915de89d9027ab04fbf2d842f913b9e00d7a1a602
-Section: Utilities
-Description: Wi-Fi second monitor client with H.264 hardware decoding for iPad mini 1
-Author: xabar-aari
-Name: SubScreen
-
-Package: com.xabaraari.subscreen
-Version: 2.3-2+debug
-Architecture: iphoneos-arm
-Maintainer: xabar-aari <pablo.cnyik@gmail.com>
-Installed-Size: 204
-Filename: debs/com.xabaraari.subscreen_2.3-2+debug_iphoneos-arm.deb
-Size: 57232
-MD5sum: d8f8fef023359122a9432c922bd0eaae
-SHA1: d3b7dad45481979c205d641035d5a00b16bc6394
-SHA256: 8855db6ea6cb08f554a3d53150bdc5e5efb7af43d80fcf5c1308dae9cd1c4c3c
-Section: Utilities
-Description: Wi-Fi second monitor client with H.264 hardware decoding, Telegram-style themes and orientation switcher for iPad mini 1
-Author: xabar-aari
-Name: SubScreen
-
 Package: com.xabaraari.x2monitors
 Version: 2.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: xabar-aari <pablo.cnyik@gmail.com>
 Installed-Size: 248
 Filename: debs/com.xabaraari.x2monitors_2.3-1+debug_iphoneos-arm.deb
-Size: 138498
-MD5sum: 18453f5495fa96fb908e245aad4f5511
-SHA1: 114e8fa125346000c5231a688d43559cafa517cc
-SHA256: 36dd11cab9b85b7d2a2eb6c10d2361e34a6d4936a243e0b1ae89ce635cc030af
+Size: 138556
+MD5sum: 8e97ed782c1af4884208f720fec476f6
+SHA1: a344f3b70592a2d16bfb7a119aef1c30edb7badb
+SHA256: d086d293ad16e89d9dcc85d2e28dcb60985a8edef417fb06fbac59a1326ee009
 Section: Utilities
 Description: Wi-Fi second monitor client with H.264 hardware decoding, Telegram-style themes and orientation switcher for iPad mini 1
 Author: xabar-aari
