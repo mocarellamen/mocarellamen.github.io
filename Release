@@ -1,8 +1,8 @@
-Origin: x2 monitors Repo
-Label: x2 monitors
+Origin: mocarellamen Repo
+Label: mocarellamen
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: x2 monitors! — Wi-Fi Second Display for iPad mini 1 by xabar-aari
+Description: Official Cydia repository for "x2Monitors!"

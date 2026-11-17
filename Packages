@@ -1,30 +1,44 @@
-Package: com.xabaraari.subscreen
-Version: 2.3-2+debug
+Package: com.mocarellamen.x2monitors
+Version: 2.4-1+debug
 Architecture: iphoneos-arm
-Maintainer: xabar-aari <pablo.cnyik@gmail.com>
-Installed-Size: 204
-Filename: debs/com.xabaraari.subscreen_2.3-2+debug_iphoneos-arm.deb
-Size: 57232
-MD5sum: d8f8fef023359122a9432c922bd0eaae
-SHA1: d3b7dad45481979c205d641035d5a00b16bc6394
-SHA256: 8855db6ea6cb08f554a3d53150bdc5e5efb7af43d80fcf5c1308dae9cd1c4c3c
-Section: Utilities
-Description: Wi-Fi second monitor client with H.264 hardware decoding, Telegram-style themes and orientation switcher for iPad mini 1
-Author: xabar-aari
-Name: SubScreen
-
-Package: com.xabaraari.x2monitors
-Version: 2.3-1+debug
-Architecture: iphoneos-arm
-Maintainer: xabar-aari <pablo.cnyik@gmail.com>
+Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Installed-Size: 248
-Filename: debs/com.xabaraari.x2monitors_2.3-1+debug_iphoneos-arm.deb
-Size: 138616
-MD5sum: fc966b4470b723f14bac299feefb70e1
-SHA1: 0619881d665272af95368857779c6e30604e6923
-SHA256: 8ba36957f72fea6e14be6a93658989bb6e54a1c4327a7535c1ea15950aa43272
+Depends: firmware (>= 9.0), com.mocarellamen.x2monitors.theme.light
+Filename: debs/com.mocarellamen.x2monitors_2.4-1+debug_iphoneos-arm.deb
+Size: 138640
+MD5sum: 1423abaf0baa1cff44b31f9df6aac825
+SHA1: 12bae29b3ed402178d49d6a11984d1b8cbece24e
+SHA256: fa1540e308eaa4c5445cc4fcde5c83a7b64e67a167b534bd61f394bcfe2f886f
 Section: Utilities
-Description: Wi-Fi second monitor client with H.264 hardware decoding, Telegram-style themes and orientation switcher for iPad mini 1
-Author: xabar-aari
-Name: x2 monitors
+Description: Wi-Fi second monitor client with H.264 hardware decoding, custom glass themes and orientation switcher for iPad mini 1
+Author: mocarellamen
+Name: "x2Monitors!"
+
+Package: com.mocarellamen.x2monitors.theme.gray
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: mocarellamen <pablo.cnyik@gmail.com>
+Filename: debs/com.mocarellamen.x2monitors.theme.gray_2.4_iphoneos-arm.deb
+Size: 31344
+MD5sum: 3893fe14df24c9fb9ba93fcfa6c2b2b4
+SHA1: 7645e47caad28198345771bdae472e08d61f677e
+SHA256: 79b298ab75bfd4b47b4c094bfbd91da61673f8ee3c0edd70204fe5506ef900ca
+Section: Theme
+Description: Dark gray glass UI and app icon theme for x2Monitors!
+Author: mocarellamen
+Name: "x2Monitors!" — Gray Theme
+
+Package: com.mocarellamen.x2monitors.theme.light
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: mocarellamen <pablo.cnyik@gmail.com>
+Filename: debs/com.mocarellamen.x2monitors.theme.light_2.4_iphoneos-arm.deb
+Size: 34134
+MD5sum: d8b9528975d78196704ba4538b84fa64
+SHA1: 0c59b4d38ab0cf806912e3a6d352b2ce4a2b7914
+SHA256: 9f31d38318f680843dc93f20827a3d5836d46c903db7bc5aaaea34397cf0665b
+Section: Theme
+Description: Light glass UI and app icon theme for x2Monitors!
+Author: mocarellamen
+Name: "x2Monitors!" — Light Theme
 
