@@ -4,40 +4,12 @@ Architecture: iphoneos-arm
 Maintainer: xabar-aari <pablo.cnyik@gmail.com>
 Installed-Size: 248
 Filename: debs/com.xabaraari.x2monitors_2.3-1+debug_iphoneos-arm.deb
-Size: 138556
-MD5sum: 8e97ed782c1af4884208f720fec476f6
-SHA1: a344f3b70592a2d16bfb7a119aef1c30edb7badb
-SHA256: d086d293ad16e89d9dcc85d2e28dcb60985a8edef417fb06fbac59a1326ee009
+Size: 138546
+MD5sum: 694935006dcd6a813915695b28b1854f
+SHA1: 1e47802741a9bdb69f669e92d652b13113f95da2
+SHA256: ab7f0d8835b2b2a01110ea3a4db018fdf1886a93d30e95de5b05a3cda87e6cec
 Section: Utilities
 Description: Wi-Fi second monitor client with H.264 hardware decoding, Telegram-style themes and orientation switcher for iPad mini 1
 Author: xabar-aari
 Name: x2 monitors
-
-Package: com.xabaraari.x2monitors.theme.gray
-Version: 2.4
-Architecture: iphoneos-arm
-Maintainer: xabar-aari <pablo.cnyik@gmail.com>
-Filename: debs/com.xabaraari.x2monitors.theme.gray_2.4_iphoneos-arm.deb
-Size: 31450
-MD5sum: ca7753f90b4038238b6ff174392018ce
-SHA1: ccb0c47b8ade4298319f4db1dd4b7a72b647db55
-SHA256: 80ea6fc187c976b2823b595db9e50ec7562d379584bf4a6a5012b0d6dc4f40c2
-Section: Theme
-Description: Тёмно-серая графитовая тема и графитовая иконка для x2 monitors!
-Author: xabar-aari
-Name: x2 monitors! — Серая тема
-
-Package: com.xabaraari.x2monitors.theme.light
-Version: 2.4
-Architecture: iphoneos-arm
-Maintainer: xabar-aari <pablo.cnyik@gmail.com>
-Filename: debs/com.xabaraari.x2monitors.theme.light_2.4_iphoneos-arm.deb
-Size: 34264
-MD5sum: 8bad016693e8c692bae8ab50bb804efe
-SHA1: 9d73dc187b17d95b57fdf86a2b15c2f00a26a4cf
-SHA256: eff33483a1f32ba08bcfc631b17d6a241870d23716f60947da9537adb0b8a722
-Section: Theme
-Description: Предустановленная светлая тема и светлая стеклянная иконка для x2 monitors!
-Author: xabar-aari
-Name: x2 monitors! — Светлая тема
 
