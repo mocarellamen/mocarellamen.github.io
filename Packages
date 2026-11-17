@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Installed-Size: 268
 Depends: firmware (>= 9.0), com.mocarellamen.x2monitors.theme.light
-Filename: debs/com.mocarellamen.x2monitors_2.4-1+debug_iphoneos-arm.deb
+Filename: debs/com.mocarellamen.x2monitors_2.4-1_iphoneos-arm.deb
 Size: 140850
 MD5sum: 0d029bc7a7ac5d941bad108a545ad564
 SHA1: f764dec00ac177cc6f996b4ca079b24eb80f8087
