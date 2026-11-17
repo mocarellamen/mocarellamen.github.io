@@ -5,10 +5,10 @@ Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Installed-Size: 268
 Depends: firmware (>= 9.0), com.mocarellamen.x2monitors.theme.light
 Filename: debs/com.mocarellamen.x2monitors_2.4-1+debug_iphoneos-arm.deb
-Size: 140804
-MD5sum: 3037e353ea7e38d1dc8e66a83616b299
-SHA1: 57ad329cc06553333661f375ef96d64fc0783eb5
-SHA256: 1a7016d49b56d0acf3799df8dc5bdc721d21e63df783fb03089f8bcf1ea47513
+Size: 140850
+MD5sum: 0d029bc7a7ac5d941bad108a545ad564
+SHA1: f764dec00ac177cc6f996b4ca079b24eb80f8087
+SHA256: 879330779047355e7ecb541c3d212279fb19948f9ced9ae2d32c9d2419cda11b
 Section: Utilities
 Description: Wi-Fi second monitor client with H.264 hardware decoding, custom glass themes and orientation switcher for iPad mini 1
 Author: mocarellamen
@@ -19,10 +19,10 @@ Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Filename: debs/com.mocarellamen.x2monitors.theme.gray_2.4_iphoneos-arm.deb
-Size: 31344
-MD5sum: b30b9f24e8f1b6a63f0e502289639c69
-SHA1: fa62113326142ca8ed3ee8fc517476efb8dd34f7
-SHA256: 3f293c8f2baacf7ec2058c7499a1d90aa8dc25a858caab7d0e691f7bd74dda9f
+Size: 31348
+MD5sum: 6fb2836bbadbf919a024e67ba5b8a044
+SHA1: 39ccb94c0f56bec6fed52bfafc58cf42089b5237
+SHA256: 5a8a8f9c3e46eab721e2ac8973923e011db3a2f3c4d07369808caff373693035
 Section: Theme
 Description: Dark gray glass UI and app icon theme for x2Monitors!
 Author: mocarellamen
@@ -33,10 +33,10 @@ Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: mocarellamen <pablo.cnyik@gmail.com>
 Filename: debs/com.mocarellamen.x2monitors.theme.light_2.4_iphoneos-arm.deb
-Size: 34130
-MD5sum: 8d4f5e3bcc8eb77fb880de6b9131cda7
-SHA1: 6c76f4cb6bde3551d379760290931ac341a00acd
-SHA256: fce8e8fae83dec22aabc10e4e8da699539d635a3be47dd2c0f2d6b45c3bc203b
+Size: 34138
+MD5sum: 24e4b3d5a535abf5f8b589197b580794
+SHA1: 11ee00c6c10558bf74fdb59661ae0b5ec81db974
+SHA256: 69a432ec1ff303f80ad7f870e350d172d00abae8cdef3088f98f2100c2a84ad3
 Section: Theme
 Description: Light glass UI and app icon theme for x2Monitors!
 Author: mocarellamen
